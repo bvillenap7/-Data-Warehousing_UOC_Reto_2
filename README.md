@@ -1,4 +1,4 @@
-# -Data-Warehousing_UOC_Reto_2
+# Data-Warehousing_UOC_Reto_2
 
 Lenguaje SQL I
 
